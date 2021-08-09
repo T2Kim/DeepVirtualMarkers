@@ -3,6 +3,10 @@
 This repository contains the accompanying code for [Deep Virtual Markers for Articulated 3D Shapes, ICCV'21]()
 
 ## Getting Started
+'''
+docker pull min00001/cuglmink
+./run_dvm_test.sh
+'''
 
 ### Prerequisites
 
