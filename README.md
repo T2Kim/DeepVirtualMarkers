@@ -17,3 +17,9 @@ This repository contains the accompanying code for [Deep Virtual Markers for Art
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/T2Kim/DeepVirtualMarkers/blob/main/LICENSE) file for details 
+
+## Related projects
+
+- [4D-SpatioTemporal ConvNets: Minkowski Convolutional Neural Networks, CVPR'19](https://github.com/chrischoy/SpatioTemporalSegmentation)
+- [Minkowski Engine, a neural network library for sparse tensors](https://github.com/StanfordVL/MinkowskiEngine)
+- [Fully Convolutional Geometric Features, ICCV'19, fast and accurate 3D features](https://github.com/chrischoy/FCGF)
