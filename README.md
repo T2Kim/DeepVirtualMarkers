@@ -16,4 +16,4 @@ This repository contains the accompanying code for [Deep Virtual Markers for Art
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/T2Kim/DeepVirtualMarkers/blob/main/LICENSE) file for details 
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/T2Kim/DeepVirtualMarkers/blob/main/LICENSE) file for details 
