@@ -1,8 +1,6 @@
 # User def
-dataset/
-d2p/
-outputs/
-aa/
+data/*
+*.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

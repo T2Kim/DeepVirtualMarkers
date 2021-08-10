@@ -3,12 +3,16 @@
 This repository contains the accompanying code for [Deep Virtual Markers for Articulated 3D Shapes, ICCV'21]()
 
 ## Getting Started
+
+Get sample data and weight from [here]()
+
+### Simple Test (Docker)
 ```
 docker pull min00001/cuglmink
 ./run_dvm_test.sh
 ```
 
-### Prerequisites
+<!-- ### Prerequisites
 
 - Ubuntu 18.06 or higher
 - CUDA 10.2 or higher
@@ -16,7 +20,7 @@ docker pull min00001/cuglmink
 - python 3.8 or higher
 - GCC 6 or higher
 
-### Installing
+### Installing -->
 
 ## License
 
