@@ -2,6 +2,8 @@
 
 This repository contains the accompanying code for [Deep Virtual Markers for Articulated 3D Shapes, ICCV'21]()
 
+<p align="center"><img src = "./sample_results/teaser.jpg" height ="500" /> 
+
 ## Getting Started
 
 Get sample data and weight from [here]()
@@ -11,6 +13,7 @@ Get sample data and weight from [here]()
 docker pull min00001/cuglmink
 ./run_dvm_test.sh
 ```
+<img src = "./sample_results/1.png" height ="300" /> <img src = "./sample_results/2.png" height ="300" /> <img src = "./sample_results/2_.png" height ="300" /> <img src = "./sample_results/3.png" height ="300" /> <img src = "./sample_results/4.png" height ="300" /> <img src = "./sample_results/5.png" height ="300" />
 
 <!-- ### Prerequisites
 
