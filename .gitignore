@@ -1,4 +1,5 @@
 # User def
+!data/
 data/*
 *.pth
 
