@@ -1,7 +1,8 @@
 # User def
-!/data
 /data/*
 *.pth
+
+!.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
