@@ -13,7 +13,7 @@ Get sample data and weight from [here]()
 docker pull min00001/cuglmink
 ./run_dvm_test.sh
 ```
-<img src = "./sample_results/1.png" height ="300" /> <img src = "./sample_results/2.png" height ="300" /> <img src = "./sample_results/2_.png" height ="300" /> <img src = "./sample_results/3.png" height ="300" /> <img src = "./sample_results/4.png" height ="300" /> <img src = "./sample_results/5.png" height ="300" />
+<img src = "./sample_results/1.png" width ="16%" /> <img src = "./sample_results/2.png" width ="16%" /> <img src = "./sample_results/2_.png" width ="16%" /> <img src = "./sample_results/3.png" width ="16%" /> <img src = "./sample_results/4.png" width ="16%" /> <img src = "./sample_results/5.png" width ="16%" />
 
 <!-- ### Prerequisites
 
