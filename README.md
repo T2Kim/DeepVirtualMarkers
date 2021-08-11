@@ -31,6 +31,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Related projects
 
+**NOTE** : Our implementation is based on the ["4D-SpatioTemporal ConvNets"](https://github.com/chrischoy/SpatioTemporalSegmentation) repository
 - [4D-SpatioTemporal ConvNets: Minkowski Convolutional Neural Networks, CVPR'19](https://github.com/chrischoy/SpatioTemporalSegmentation)
 - [Minkowski Engine, a neural network library for sparse tensors](https://github.com/StanfordVL/MinkowskiEngine)
 - [Fully Convolutional Geometric Features, ICCV'19, fast and accurate 3D features](https://github.com/chrischoy/FCGF)
