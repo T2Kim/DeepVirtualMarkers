@@ -1,6 +1,6 @@
 # User def
-!data/
-data/*
+!/data/
+/data/*
 *.pth
 
 # Byte-compiled / optimized / DLL files
