@@ -6,7 +6,7 @@ This repository contains the accompanying code for [Deep Virtual Markers for Art
 
 ## Getting Started
 
-Get sample data and pre-trained weight from [here]() (will be updated)
+Get sample data and pre-trained weight from [here](https://1drv.ms/u/s!AtCM45bsnwBNmGzeBIEI7Y5dMvis?e=ZemVdP)
 
 ### Simple Test (Docker)
 ```
