@@ -11,7 +11,7 @@ This repository contains the accompanying code for [Deep Virtual Markers for Art
 
 ## Athor Information
 
-- [Hyomin Kim]()
+- [Hyomin Kim](http://hyomin.me/)
 - [Jungeon Kim]()
 - [Jaewon Kam]()
 - [Jaesik Park](http://jaesik.info/) [[Google Scholar]](https://scholar.google.com/citations?user=_3q6KBIAAAAJ&hl=en&oi=ao)
